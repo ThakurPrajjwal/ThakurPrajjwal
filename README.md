@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: thakurprajjwal07@gmail.com
 - 😄 Pronouns: He
 ##### Happy to collaborate!!
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Smr341&show_icons=true" alt="Smr341" /></div>
+
